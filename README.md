@@ -1,5 +1,5 @@
-- Wondering how do people spend so much time coding each day.
-- Here to upload some files for personal projects mostly.
+- wondering how do people spend so much time coding each day.
+- here to upload some files for personal projects mostly.
 
 <!---
 zillastar/zillastar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
