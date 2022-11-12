@@ -8,7 +8,7 @@
   
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around
+- 👾 a **student** working his way around things
   
 <h2> / current skills / </h2>
   
