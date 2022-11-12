@@ -1,4 +1,4 @@
-<center> ![Image of my name](https://i.imgur.com/x6qU1kR.png) </center>
+
 
 - wondering how do people spend so much time coding each day.
 - here to upload some files for mostly personal projects.
