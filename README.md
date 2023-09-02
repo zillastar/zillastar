@@ -34,7 +34,7 @@
   <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
   <img src = "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
   
-  </br></br>
+  </br></br></br></br></br></br>
   
 <div align="right">
 <a href="https://www.pixiv.net/en/users/471355">Avatar Icon by ccreayus</a>
