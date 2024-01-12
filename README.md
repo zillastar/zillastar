@@ -41,7 +41,7 @@
   </br></br></br></br></br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/471355">Avatar Icon by ccreayus</a>
+<a href="https://twitter.com/isuka_syumi">Avatar Icon by isuka_syumi</a>
   </div>
   </div>
 
